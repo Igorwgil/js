@@ -14,3 +14,4 @@ const score = 10;
 score = 11;
 
 console.log(score);
+
